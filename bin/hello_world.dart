@@ -3,6 +3,6 @@
 //Program Hello World pada dart
 
 void main() {
-  //Function print
+  //Function print di dart
   print('Hello world!');
 }
